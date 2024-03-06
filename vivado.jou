@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Sun Nov  5 13:18:33 2023
+# Process ID: 15156
+# Current directory: C:/Users/Mehmet Ali/OneDrive/Desktop/Homework1_210601043_
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2496 C:\Users\Mehmet Ali\OneDrive\Desktop\Homework1_210601043_\Homework1_210601043_.xpr
+# Log file: C:/Users/Mehmet Ali/OneDrive/Desktop/Homework1_210601043_/vivado.log
+# Journal file: C:/Users/Mehmet Ali/OneDrive/Desktop/Homework1_210601043_\vivado.jou
+# Running On: Sistem-1, OS: Windows, CPU Frequency: 2918 MHz, CPU Physical cores: 4, Host memory: 16948 MB
+#-----------------------------------------------------------
+start_guopopen_project {C:/Users/Mehmet Ali/OneDrive/Desktop/Homework1_210601043_/Homework1_210601043_.xpr}
+update_compile_order -fileset sources_1
